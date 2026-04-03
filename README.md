@@ -24,13 +24,12 @@
 في هذا القسم، نستعرض أهم الرسوم البيانية التي تلخص حالة سوق السيارات بناءً على البيانات:
 | Price Distribution | Top Brands |
 |---|---|
-| ![Market Share](newplot.png) | ![Top Brands](newplot1.png) |
+| ![Market Share](Images/newplot.png) | ![Top Brands](Images/newplot1.png) |
 
 | Price vs Mileage | Correlation Heatmap |
 |---|---|
-| ![Price vs Mileage](
-newplocaraget.png) | ![Heatmap](لقطة شاشة 2026-04-03 200343.png) |
-| ![Price Trends](newplotline.ppg) | ![Price Distribution](newplotpro.png) |
+| ![Price vs Mileage](Images/newplocaraget.png) | ![Heatmap](Images/لقطة شاشة 2026-04-03 200343.png) |
+| ![Price Trends](Images/newplotline.png) | ![Price Distribution](Images/newplotpro.png) |
 | **توزيع الماركات والموديلات:** يوضح الهيمنة لبعض العلامات التجارية وتنوع الموديلات في السوق. | **تحليل الاتجاه الزمني:** يوضح كيفية تغير الأسعار أو الكميات عبر الفترات الزمنية المختلفة. | **توزيع الأسعار:** نظرة عميقة على تكرار الفئات السعرية وحالة السيارات المعروضة. |
 
 ---
