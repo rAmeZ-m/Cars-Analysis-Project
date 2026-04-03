@@ -29,7 +29,7 @@
 | Price vs Mileage | Correlation Heatmap |
 |---|---|
 | ![Price vs Mileage](Images/newplotline.png) | ![Heatmap](Images/output.png) |
-| ![Price Trends](Images/newplotpro.png) | ![Price Distribution](Images/newplocaraget.png) |
+| ![Price Distribution](Images/newplocaraget.png) | ![Price Trends](Images/newplotpro.png) |
 |**تحليل الاتجاه الزمني:** يوضح كيفية تغير الأسعار أو الكميات عبر الفترات الزمنية المختلفة. |**مقارنة أداء المبيعات شهرياً (Grouped Bar Chart):** تحليل يوضح حجم مبيعات السيارات (Count) موزعة حسب شهور السنة، مع تصنيف كل شهر إلى ثلاث فئات: مبيعات بربح (Profit)، مبيعات بخسارة (Loss)، وأسعار عادلة (Fair Prices).. |
 
 ---
