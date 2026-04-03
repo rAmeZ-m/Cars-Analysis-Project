@@ -29,8 +29,8 @@
 | Price vs Mileage | Correlation Heatmap |
 |---|---|
 | ![Price vs Mileage](
-newplocaraget.png) | ![Heatmap](لقطة شاشة 2026-04-03 200343.pn) |
-| ![Price Trends](newplotline.jpg) | ![Price Distribution](newplotpro.png) |
+newplocaraget.png) | ![Heatmap](لقطة شاشة 2026-04-03 200343.png) |
+| ![Price Trends](newplotline.ppg) | ![Price Distribution](newplotpro.png) |
 | **توزيع الماركات والموديلات:** يوضح الهيمنة لبعض العلامات التجارية وتنوع الموديلات في السوق. | **تحليل الاتجاه الزمني:** يوضح كيفية تغير الأسعار أو الكميات عبر الفترات الزمنية المختلفة. | **توزيع الأسعار:** نظرة عميقة على تكرار الفئات السعرية وحالة السيارات المعروضة. |
 
 ---
