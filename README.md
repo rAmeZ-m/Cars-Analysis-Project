@@ -11,7 +11,7 @@
 ## 🛠 الأدوات المستخدمة (Tech Stack)
 * **Python**: اللغة الأساسية للتحليل.
 * **Pandas & NumPy**: لمعالجة البيانات والجداول الضخمة.
-* **Matplotlib & Seaborn**: لعمل الرسومات البيانية والـ Heatmaps.
+* **Matplotlib & Seaborn & Plotly**: لعمل الرسومات البيانية والـ Heatmaps.
 * **Jupyter Notebook**: البيئة التي تم فيها تنفيذ الكود.
 
 ## 📁 محتويات المشروع (Project Structure)
@@ -28,9 +28,9 @@
 
 | Price vs Mileage | Correlation Heatmap |
 |---|---|
-| ![Price vs Mileage](Images/newplotline.png) | ![Heatmap](Images/لقطة شاشة 2026-04-03 200343.png) |
+| ![Price vs Mileage](Images/newplotline.png) | ![Heatmap](Images/output.png) |
 | ![Price Trends](Images/newplotpro.png) | ![Price Distribution](Images/newplocaraget.png) |
-| **توزيع الماركات والموديلات:** يوضح الهيمنة لبعض العلامات التجارية وتنوع الموديلات في السوق. | **تحليل الاتجاه الزمني:** يوضح كيفية تغير الأسعار أو الكميات عبر الفترات الزمنية المختلفة. |**مقارنة أداء المبيعات شهرياً (Grouped Bar Chart):** تحليل يوضح حجم مبيعات السيارات (Count) موزعة حسب شهور السنة، مع تصنيف كل شهر إلى ثلاث فئات: مبيعات بربح (Profit)، مبيعات بخسارة (Loss)، وأسعار عادلة (Fair Prices).. |
+|**تحليل الاتجاه الزمني:** يوضح كيفية تغير الأسعار أو الكميات عبر الفترات الزمنية المختلفة. |**مقارنة أداء المبيعات شهرياً (Grouped Bar Chart):** تحليل يوضح حجم مبيعات السيارات (Count) موزعة حسب شهور السنة، مع تصنيف كل شهر إلى ثلاث فئات: مبيعات بربح (Profit)، مبيعات بخسارة (Loss)، وأسعار عادلة (Fair Prices).. |
 
 ---
 ## 💡 أهم النتائج (Key Insights)
