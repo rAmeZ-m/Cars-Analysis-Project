@@ -16,8 +16,9 @@
 
 ## 📁 محتويات المشروع (Project Structure)
 * `Cars Project Final.ipynb`: ملف الكود الرئيسي الذي يحتوي على خطوات التنظيف والتحليل.
+* ![Nissan Altima](2020_Nissan_Altima_Trim_Levels.png)
 * `2020_Nissan_Altima_Trim_Levels.png`: صورة توضيحية لواحد من الموديلات المحللة.
-* `Session 18.ipynb`: ملف تجارب إضافي لمراحل التطوير.
+* `Cars_Analysis_Report_FFFFFINAL.pdf`: ريبورت بيوضح كل تفاصيل البروجيكت.
 
 ## 💡 أهم النتائج (Key Insights)
 > [!TIP]
